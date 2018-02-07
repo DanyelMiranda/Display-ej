@@ -1,0 +1,64 @@
+header{
+	border-bottom: 1px solid black;
+}
+
+
+.header-div{
+	display: inline-block;
+}
+
+.header-div img{
+	width: 100px;
+	vertical-align: middle;
+}
+
+.header-div a{
+	color: black;
+	font-size: 25px;
+	text-decoration: none;
+	margin: 0 50px;
+}
+
+article{
+	display: inline-block;
+	margin: 0 10px;
+	height: 500px;
+	width: 30%;
+}
+
+article img{
+	width: 100%;
+}
+
+article .article-picture{
+	height: 250px;
+	overflow: hidden;
+}
+
+footer{
+	background-color: grey;
+	padding: 40px;
+	margin-top: 50px;
+}
+
+footer p{
+	font-size: 25px;
+	color: aqua;
+}
+
+footer .picture{
+	width: 80px;
+}
+
+footer .picture img{
+	width: 100%;
+}
+
+footer .footer-div{
+	display: inline-block;
+}
+
+footer .contact-info{
+	width: 80%;
+}
+
